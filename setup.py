@@ -9,7 +9,7 @@ setup(
     author_email='pazsitz@pazsitz.hu',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/pazsitz/mappy_json-object-mapper',
+    url='https://github.com/PazsitZ/mappy-json-object-mapper',
     keywords='python json object mapper',
     install_requires=[ ],
 
